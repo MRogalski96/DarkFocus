@@ -61,6 +61,8 @@ function [z,fC,DarkVolume] = DarkFocus(holo,opts,adv)
 %            opts.dist
 %
 % Created by:
+%   Maciej Trusiak
+% Implemented by:
 %   Mikołaj Rogalski,
 %   mikolaj.rogalski.dokt@pw.edu.pl
 %   Institute of Micromechanics and Photonics,
